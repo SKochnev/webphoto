@@ -1,0 +1,8 @@
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\bin\x86\Debug\WebPhoto.exe.config
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\MainWindow.baml
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\MainWindow.g.cs
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\App.g.cs
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\WebPhoto_MarkupCompile.cache
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\WebPhoto.g.resources
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\WebPhoto.Properties.Resources.resources
+g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\x86\Debug\WebPhoto.csproj.GenerateResource.Cache
