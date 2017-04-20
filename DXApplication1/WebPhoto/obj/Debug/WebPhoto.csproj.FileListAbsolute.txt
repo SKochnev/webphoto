@@ -40,3 +40,6 @@ g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\De
 g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\Debug\WebPhoto_MarkupCompile.lref
 g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\Debug\MainWindow.baml
 g:\SKochnev\Documents\Visual Studio 2015\Projects\DXApplication1\WebPhoto\obj\Debug\WebPhoto.g.resources
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\bin\Debug\WebPhoto.exe.config
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\obj\Debug\WebPhoto.exe
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\obj\Debug\WebPhoto.pdb

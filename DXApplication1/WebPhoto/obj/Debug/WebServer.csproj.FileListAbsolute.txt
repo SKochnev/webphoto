@@ -1,0 +1,3 @@
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\bin\Debug\WebPhoto.exe.config
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\obj\Debug\WebPhoto.exe
+C:\Users\SKochnev\Source\Repos\webphoto\DXApplication1\WebPhoto\obj\Debug\WebPhoto.pdb

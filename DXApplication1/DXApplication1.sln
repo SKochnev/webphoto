@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPhoto", "WebPhoto\WebPhoto.csproj", "{178C8A6F-EDC7-43E3-811F-DEEFD931DB33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServer", "WebPhoto\WebServer.csproj", "{178C8A6F-EDC7-43E3-811F-DEEFD931DB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMenu", "DXApplication2\WebMenu\WebMenu.csproj", "{71C28164-DB94-41FD-A164-C39ED6E2C5D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{178C8A6F-EDC7-43E3-811F-DEEFD931DB33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{178C8A6F-EDC7-43E3-811F-DEEFD931DB33}.Release|x86.ActiveCfg = Release|x86
 		{178C8A6F-EDC7-43E3-811F-DEEFD931DB33}.Release|x86.Build.0 = Release|x86
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Debug|x86.Build.0 = Debug|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Release|x86.ActiveCfg = Release|Any CPU
+		{71C28164-DB94-41FD-A164-C39ED6E2C5D2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
