@@ -19,6 +19,7 @@ namespace WebMenu
     public partial class MainWindow : DXWindow
     {
        // public ObservableCollection<Web> Web123 { get; set; }
+
         public BitmapImage loadImage = new BitmapImage();
         WinForms.FolderBrowserDialog folderBrowser = new WinForms.FolderBrowserDialog();
         private string[] files;
@@ -69,6 +70,24 @@ namespace WebMenu
 
 
         }
+        
+        [Command]
+        private void NewPage(object sender, RoutedEventArgs e)
+        {
+
+          
+                //string[] strAr = new string[dataGrid1.Rows[1].Count];
+                //for (int i = 0; i < dataGrid1.Rows[1].Count; i++)
+                //{
+                //strAr[i] = (int)dataGrid1.Rows[i].Cells["Column0_IndexTable1"].Value;
+                //}
+                
+            
+           Web.AddNewPage(files, 1);
+
+        }
+
+
     }
 
 }

@@ -11,8 +11,11 @@
             <ColumnDefinition Width="3*"/>
         </Grid.ColumnDefinitions>
 
-        <Button x:Name="button" Content="Путь" HorizontalAlignment="Left"  VerticalAlignment="Top"  Click="Way" Grid.Column="1"/>
-        <Button x:Name="button1" Content="Выгрузить" HorizontalAlignment="Left"   Width="Auto" Height="28" Click="Drop" Grid.Column="1"/>
+        
+        <Button x:Name="button" Content="Путь" HorizontalAlignment="Left"  VerticalAlignment="Top"  Click="Way" Grid.Column="0"/>
+        <Button x:Name="button1" Content="Выгрузить" HorizontalAlignment="Left"   Width="Auto" Height="28" Click="Drop" Grid.Column="0"/>
+        <Label x:Name="Count" Content="Количество колонок" HorizontalAlignment="Left" VerticalAlignment="Top" Width="auto" Height="28" Grid.Column="1"/>
+        <Button x:Name="button2" Content="Создать страничку" HorizontalAlignment="Left"   Width="Auto" Height="28" Click="NewPage" Grid.Column="1"/>
 
         <DataGrid AutoGenerateColumns="False" HorizontalAlignment="Stretch" Name="dataGrid1" VerticalAlignment="Stretch" Grid.Column="2" IsReadOnly="False">
             <DataGrid.Columns>
